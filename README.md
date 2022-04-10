@@ -12,7 +12,7 @@ Tenha o NetBeans Instalado na sua maquina
 
 ### 🔧 Instalação
 
-Importe os seguintes arquivos no netbeans?
+Importe os seguintes arquivos no netbeans
 
 PokeXex.java (Classe Principal)
 Pokemon.java (Classe de Pokemons)
